@@ -1,1 +1,2 @@
 Den ca con khi cung hieu duoc lenh Git
+Den ca con khi cung hiểu dc lent Git lan nua
