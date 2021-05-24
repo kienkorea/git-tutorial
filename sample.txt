@@ -1,4 +1,0 @@
-Den ca con khi cung hieu duoc lenh Git
-Den ca con khi cung hiểu dc lent Git lan nua
-
-Ứng với Git đã cài đặt, hãy đăng ký tên người dùng và địa chỉ email của mình. Việc này thì chỉ cần thực hiện 1 lần sau khi cài đặt là được. Cái này sẽ được hiển thị trong lịch sử xem như là thông tin của người đã commit chẳng hạn.
